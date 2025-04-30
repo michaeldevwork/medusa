@@ -513,7 +513,7 @@ const generatedgeneratedAdminSidebarSidebar = {
     },
     {
       "type": "category",
-      "title": "AAAAAAAA",
+      "title": "Products",
       "children": [
         {
           "type": "link",
